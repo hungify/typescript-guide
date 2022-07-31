@@ -25,3 +25,7 @@
 6. CUSTOM ERRORS
 
    - `tips/6-tip`
+
+7. DEEP PARTIAL
+
+   - `tips/7-tip`
