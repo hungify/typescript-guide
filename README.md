@@ -19,4 +19,9 @@
    - `tips/4-tip`
 
 5. Building LOOSE AUTOCOMPLETE
+
    - `tips/5-tip`
+
+6. CUSTOM ERRORS
+
+   - `tips/6-tip`
