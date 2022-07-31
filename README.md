@@ -15,4 +15,8 @@
    - `tips/3-tip`
 
 4. Conditional typing using typescript generic
+
    - `tips/4-tip`
+
+5. Building LOOSE AUTOCOMPLETE
+   - `tips/5-tip`
