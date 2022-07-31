@@ -10,3 +10,6 @@
 
    - `tips/2-tip`
 
+3. "noUncheckedIndexAccess" - the BEST config option you've never heard of
+
+   - `tips/3-tip`
