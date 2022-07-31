@@ -13,3 +13,6 @@
 3. "noUncheckedIndexAccess" - the BEST config option you've never heard of
 
    - `tips/3-tip`
+
+4. Conditional typing using typescript generic
+   - `tips/4-tip`
