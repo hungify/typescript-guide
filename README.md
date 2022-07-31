@@ -29,3 +29,7 @@
 7. DEEP PARTIAL
 
    - `tips/7-tip`
+
+8. Extracting React Props using CONDITIONAL TYPES
+
+   - `tips/8-tip`
