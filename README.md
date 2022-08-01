@@ -33,3 +33,7 @@
 8. Extracting React Props using CONDITIONAL TYPES
 
    - `tips/8-tip`
+
+9. Improving OBJECT.KEYS
+
+   - `tips/8-tip`
