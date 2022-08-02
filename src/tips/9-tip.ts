@@ -1,4 +1,4 @@
-// #8: Improving OBJECT.KEYS
+// #9: Improving OBJECT.KEYS
 
 const myObject = {
   a: 1,
