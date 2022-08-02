@@ -37,3 +37,7 @@
 9. Improving OBJECT.KEYS
 
    - `tips/9-tip`
+
+10. React Components with GENERICS
+
+    - `tips/10-tip`
