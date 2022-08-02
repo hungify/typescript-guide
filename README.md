@@ -36,4 +36,4 @@
 
 9. Improving OBJECT.KEYS
 
-   - `tips/8-tip`
+   - `tips/9-tip`
