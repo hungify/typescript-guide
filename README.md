@@ -41,3 +41,7 @@
 10. React Components with GENERICS
 
     - `tips/10-tip`
+
+11. Master Generic Slots
+
+    - `tips/11-tip`
