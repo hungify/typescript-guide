@@ -45,3 +45,7 @@
 11. Master Generic Slots
 
     - `tips/11-tip`
+
+12. Turn MODULES INTO TYPES with typeof import
+
+    - `tips/12-tip`
