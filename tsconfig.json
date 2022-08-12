@@ -20,6 +20,8 @@
     "noFallthroughCasesInSwitch": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "importsNotUsedAsValues": "error",
+    "preserveValueImports": true,
     "incremental": true,
     "baseUrl": ".",
     "paths": {
