@@ -49,3 +49,7 @@
 12. Turn MODULES INTO TYPES with typeof import
 
     - `tips/12-tip`
+
+13. DRY up your generic signatures with DEFAULT GENERICS
+
+    - `tips/13-tip`
