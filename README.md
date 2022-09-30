@@ -53,3 +53,11 @@
 13. DRY up your generic signatures with DEFAULT GENERICS
 
     - `tips/13-tip`
+
+14. The SECRET POWER of indexed access types
+
+    - `tips/14-tip`
+
+15. Fix ANNOYING OBJECT KEYS with infer and template literals
+
+    - `tips/15-tip`
