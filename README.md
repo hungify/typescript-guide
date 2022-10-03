@@ -1,4 +1,4 @@
-# List guide about Advanced Typescript from the channel of Matt Pocock and more
+# List guide about Advanced Typescript and more
 
 ## Table of contents
 
